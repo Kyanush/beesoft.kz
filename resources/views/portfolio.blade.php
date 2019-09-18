@@ -36,7 +36,7 @@
             <div class="row item">
                 <div class="col-lg-6">
                     <p>
-                    <img class="logo" src="/site/images/otzuv/onepoint.PNG" />
+                    <img class="logo" src="/site/images/otzuv/onepoint.png" />
                     </p>
                     <p><a href="https://onepoint.kz/" target="_blank">OnePoint.kz</a> интернет-магазин электроники</p>
 
